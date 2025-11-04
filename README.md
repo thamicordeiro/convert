@@ -35,18 +35,5 @@ Integração de HTML, CSS e JavaScript em um projeto funcional
 
 Melhor entendimento da estrutura de arquivos de um pequeno projeto front-end
 
-🔜 Próximos passos / melhorias futuras
 
-Adicionar mais moedas ou permitir entrada de taxa de câmbio personalizada
 
-Validar a entrada do usuário (por exemplo, garantir que seja um número válido)
-
-Melhorar o layout responsivo para dispositivos móveis
-
-Armazenar ou recuperar taxas de câmbio via API em vez de valores fixos
-
-Exibir histórico de conversões ou permitir exportar os resultados
-
-📜 Licença
-
-Este projeto foi criado para fins didáticos. Sinta-se à vontade para usá-lo como base para seus próprios experimentos.
