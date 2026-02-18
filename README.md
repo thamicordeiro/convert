@@ -1,39 +1,46 @@
- Convert
+# 🔄 Convert
 
-Projeto simples de conversão de moedas usando HTML, CSS e JavaScript
+## 📌 Sobre o projeto  
+Este projeto foi desenvolvido junto com aula para praticar lógica de programação e manipulação de dados com JavaScript.  
+A proposta foi criar uma aplicação simples para conversão de valores, focando em interatividade e experiência do usuário.
 
-🎯 Propósito
+---
 
-Este é o meu primeiro projeto em que apliquei JavaScript junto com a aula. O objetivo principal foi praticar e consolidar conceitos como manipulação do DOM, eventos e integração com HTML/CSS.
+## 🚀 Tecnologias  
+- HTML  
+- CSS  
+- JavaScript  
+- Git e GitHub  
 
-🧰 Funcionalidades
+---
 
-Permite selecionar entre diferentes moedas (por exemplo, Dólar Americano, Euro, Libra Esterlina)
+## ✨ Funcionalidades  
+- Conversão de valores  
+- Interface simples e intuitiva  
+- Atualização dinâmica dos resultados  
+- Validação básica de entrada  
+- Layout responsivo  
 
-Converte o valor informado para Reais (R$) automaticamente ao clicar no botão "Converter"
+---
 
-Mostra o resultado da conversão na tela
+## 🧠 O que aprendi  
+- Manipulação do DOM com JavaScript  
+- Eventos e interatividade  
+- Lógica de programação aplicada  
+- Organização de código
+- Lógica de cálculo simples de conversão de moedas
+- Boas práticas no desenvolvimento front-end  
 
-🚀 Tecnologias utilizadas
-
-HTML – estrutura da página
-
-CSS – estilização (cores, fontes, layout)
-
-JavaScript – para lógica de conversão, manipulação de elementos e interação com o usuário
+---
 
 
-💡 O que aprendi
+## 🚀 Preview  
+<img width="1227" height="834" alt="image" src="https://github.com/user-attachments/assets/ae0411b9-3819-4b77-8e44-9d838fc55aeb" />
 
-Manipulação de elementos HTML por meio de JavaScript (ex: querySelector, addEventListener)
+---
 
-Reagir às interações do usuário (botões, campos de entrada)
-
-Lógica de cálculo simples de conversão de moedas
-
-Integração de HTML, CSS e JavaScript em um projeto funcional
-
-Melhor entendimento da estrutura de arquivos de um pequeno projeto front-end
+## 📎 Acesse o projeto  
+👉 [link-do-seu-projeto-aqui](https://thamicordeiro.github.io/convert/)
 
 
 
